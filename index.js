@@ -6,4 +6,4 @@ greet("Jenkins");
 function greetTo(lname){
   console.log("Hello, " + lname + "What's App man/women");
 }
-greetTo("Pralhad");
+greetTo("Pralhad & lad");
